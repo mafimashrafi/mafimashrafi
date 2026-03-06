@@ -128,12 +128,13 @@ I'm a **CS student** who got tired of half-finished projects and vague goals. No
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mafimashrafi&theme=monokai" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mafimashrafi&theme=monokai" height="165"/>
-</div>
+<div align="center">
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mafimashrafi&theme=midnight_purple" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mafimashrafi&theme=midnight_purple" height="165"/>
+
+</div>
 
 ---
 
