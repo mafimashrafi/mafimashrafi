@@ -132,7 +132,7 @@ I'm a **CS student** who got tired of half-finished projects and vague goals. No
 
   <img src="https://github-readme-stats.vercel.app/api?username=mafimashrafi&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafimashrafi&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mafimashrafi&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165"/>
 
 </div>
 
