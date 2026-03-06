@@ -148,12 +148,17 @@ I'm a **CS student** who got tired of half-finished projects and vague goals. No
 ---
 
 ## 📬 Reach Out
+
 <div align="center">
-Show Image
-Show Image
-Show Image
+
+[![GitHub](https://img.shields.io/badge/GitHub-mafimashrafi-181717?style=for-the-badge&logo=github)](https://github.com/mafimashrafi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashrafi%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashrafi-rahman-mafi)
+[![Gmail](https://img.shields.io/badge/Gmail-mashrafirahman75@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashrafirahman75@gmail.com)
+
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
