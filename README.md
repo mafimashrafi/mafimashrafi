@@ -148,15 +148,12 @@ I'm a **CS student** who got tired of half-finished projects and vague goals. No
 ---
 
 ## 📬 Reach Out
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-mafimashrafi-181717?style=for-the-badge&logo=github)](https://github.com/mafimashrafi)
-
+Show Image
+Show Image
+Show Image
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
