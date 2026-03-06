@@ -130,9 +130,9 @@ I'm a **CS student** who got tired of half-finished projects and vague goals. No
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mafimashrafi&theme=monokai" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mafimashrafi&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mafimashrafi&theme=monokai" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafimashrafi&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
@@ -152,7 +152,7 @@ I'm a **CS student** who got tired of half-finished projects and vague goals. No
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mafimashrafi-181717?style=for-the-badge&logo=github)](https://github.com/mafimashrafi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashrafi%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafimashrafi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashrafi%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashrafi-rahman-mafi)
 [![Gmail](https://img.shields.io/badge/Gmail-mashrafirahman75@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashrafirahman75@gmail.com)
 
 </div>
