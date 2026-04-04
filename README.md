@@ -28,8 +28,6 @@ mashrafi = {
 
 I'm a **CS student** who got tired of half-finished projects and vague goals. Now I build things end-to-end — from raw data to deployed models. My work spans **NLP**, **bioinformatics ML**, **computer vision**, and full-stack tools.
 
-> *"Previously inconsistent. Currently locked in."* 🎯
-
 ---
 
 ## 🛠️ Tech Stack
