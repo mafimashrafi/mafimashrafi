@@ -1,14 +1,10 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mashrafi%20Rahman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0500,50:5c2e0e,100:1a0f00&height=200&section=header&text=Mashrafi%20Rahman&fontSize=52&fontColor=f2b705&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
-
 <br/>
-
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions.;Building+models+that+actually+work.;Learning+every+single+day.+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=E8871E&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions.;Building+models+that+actually+work.;Quality+over+streaks.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,8 +17,8 @@ mashrafi = {
     "name"       : "Mashrafi Rahman",
     "university" : "BRAC University",
     "focus"      : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-    "currently"  : "Building things. Breaking things. Improving.",
-    "motto"      : "Ship it, then sharpen it.",
+    "currently"  : "Working in bursts, not for the sake of a streak.",
+    "motto"      : "Ship it when it's ready, not to fill a square.",
 }
 ```
 
@@ -32,65 +28,114 @@ I'm a **CS student** who got tired of half-finished projects and vague goals. No
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<th align="center" bgcolor="#1A0F00"><font color="#F2B705">Languages & Core</font></th>
+<th align="center" bgcolor="#5C2E0E"><font color="#F2B705">ML / AI</font></th>
+<th align="center" bgcolor="#E8871E"><font color="#1A0F00">Data & Vision</font></th>
+</tr>
+<tr>
+<td valign="top">
 
-**Languages & Core**
+![Python](https://img.shields.io/badge/Python-1A0F00?style=flat-square&logo=python&logoColor=F2B705)
+![SQL](https://img.shields.io/badge/SQL-1A0F00?style=flat-square&logo=mysql&logoColor=F2B705)
+![CSS3](https://img.shields.io/badge/CSS3-1A0F00?style=flat-square&logo=css3&logoColor=F2B705)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+<td valign="top">
 
-**ML / AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-5C2E0E?style=flat-square&logo=tensorflow&logoColor=F2B705)
+![Keras](https://img.shields.io/badge/Keras-5C2E0E?style=flat-square&logo=keras&logoColor=F2B705)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-5C2E0E?style=flat-square&logo=scikit-learn&logoColor=F2B705)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-5C2E0E?style=flat-square&logo=huggingface&logoColor=F2B705)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+</td>
+<td valign="top">
 
-**Data & Vision**
+![NumPy](https://img.shields.io/badge/NumPy-E8871E?style=flat-square&logo=numpy&logoColor=1A0F00)
+![Pandas](https://img.shields.io/badge/Pandas-E8871E?style=flat-square&logo=pandas&logoColor=1A0F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-E8871E?style=flat-square&logo=opencv&logoColor=1A0F00)
+![Pillow](https://img.shields.io/badge/Pillow-E8871E?style=flat-square&logo=python&logoColor=1A0F00)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mafimashrafi&theme=midnight_purple" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mafimashrafi&theme=midnight_purple" height="165"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Currently Focused On
 
-- 📖 Deepening knowledge in **Transformer architectures** and **LLM fine-tuning**
-- 🧪 Exploring **bioinformatics ML** — RNA, proteins, and genomic data
-- 🔨 Shipping more **complete, documented projects** (no more half-finished repos)
-- 🌐 Building a stronger **public portfolio** — one commit at a time
+<table align="center">
+<tr>
+<td valign="top" width="50%" bgcolor="#1A0F00">
+
+**📖 Learning**
+<br/>
+Transformer architectures, LLM fine-tuning
+
+</td>
+<td valign="top" width="50%" bgcolor="#5C2E0E">
+
+**🧪 Exploring**
+<br/>
+Bioinformatics ML — RNA, proteins, genomic data
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" bgcolor="#E8871E">
+
+**🔨 Shipping**
+<br/>
+Complete, documented projects — when there's real work to ship
+
+</td>
+<td valign="top" width="50%" bgcolor="#F2B705">
+
+**🌐 Building**
+<br/>
+A stronger public portfolio, at whatever pace the work actually needs
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📬 Reach Out
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" bgcolor="#1A0F00">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mafimashrafi-181717?style=for-the-badge&logo=github)](https://github.com/mafimashrafi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashrafi%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashrafi-rahman-mafi)
-[![Gmail](https://img.shields.io/badge/Gmail-mashrafirahman75@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashrafirahman75@gmail.com)
-
-</div>
-
+**🐙 GitHub**
 <br/>
+[mafimashrafi](https://github.com/mafimashrafi)
+
+</td>
+<td align="center" bgcolor="#5C2E0E">
+
+**💼 LinkedIn**
+<br/>
+[Mashrafi Rahman](https://www.linkedin.com/in/mashrafi-rahman-mafi)
+
+</td>
+<td align="center" bgcolor="#E8871E">
+
+**📧 Gmail**
+<br/>
+[mashrafirahman75@gmail.com](mailto:mashrafirahman75@gmail.com)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+---
+
+*Thanks for stopping by!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,50:5c2e0e,100:0a0500&height=100&section=footer" width="100%"/>
+
 </div>
