@@ -18,11 +18,11 @@ mashrafi = {
     "university" : "BRAC University",
     "focus"      : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
     "currently"  : "Working in bursts, not for the sake of a streak.",
-    "motto"      : "Ship it when it's ready, not to fill a square.",
+    "motto"      : "Always exploring and shaping what brings me joy.",
 }
 ```
 
-I'm a **CS student** who got tired of half-finished projects and vague goals. Now I build things end-to-end — from raw data to deployed models. My work spans **NLP**, **bioinformatics ML**, **computer vision**, and full-stack tools.
+I'm a **CS Graduate** who got tired of half-finished projects and vague goals. Now I build things end-to-end — from raw data to deployed models. My work spans **NLP**, **ML/AI** **bioinformatics ML**, **computer vision**, and full-stack tools.
 
 ---
 
