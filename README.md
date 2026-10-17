@@ -33,6 +33,7 @@ I'm a **CS Graduate** who got tired of half-finished projects and vague goals. N
 <th align="center" bgcolor="#1A0F00"><font color="#F2B705">Languages & Core</font></th>
 <th align="center" bgcolor="#5C2E0E"><font color="#F2B705">ML / AI</font></th>
 <th align="center" bgcolor="#E8871E"><font color="#1A0F00">Data & Vision</font></th>
+<th align="center" bgcolor="#e8a51e"><font color="#21201e">MLOps & Cloud</font></th>
 </tr>
 <tr>
 <td valign="top">
@@ -61,6 +62,12 @@ I'm a **CS Graduate** who got tired of half-finished projects and vague goals. N
 ![Pillow](https://img.shields.io/badge/Pillow-E8871E?style=flat-square&logo=python&logoColor=1A0F00)
 ![matplotlib](https://img.shields.io/badge/matplotlib-e08a30?style=flat-square&logo=plotly&logoColor=black) 
 ![seaborn](https://img.shields.io/badge/seaborn-e08a30?style=flat-square&logo=python&logoColor=black)
+
+</td>
+<td valign="top">
+
+![Docker](https://img.shields.io/badge/Docker-8c5a1a?style=flat-square&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-8c5a1a?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </td>
 </tr>
