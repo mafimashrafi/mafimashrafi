@@ -39,11 +39,14 @@ I'm a **CS Graduate** who got tired of half-finished projects and vague goals. N
 
 ![Python](https://img.shields.io/badge/Python-1A0F00?style=flat-square&logo=python&logoColor=F2B705)
 ![SQL](https://img.shields.io/badge/SQL-1A0F00?style=flat-square&logo=mysql&logoColor=F2B705)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F5C242) 
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=F5C242)
 ![CSS3](https://img.shields.io/badge/CSS3-1A0F00?style=flat-square&logo=css3&logoColor=F2B705)
 
 </td>
 <td valign="top">
 
+![PyTorch](https://img.shields.io/badge/PyTorch-4a2c14?style=flat-square&logo=pytorch&logoColor=F5C242)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-5C2E0E?style=flat-square&logo=tensorflow&logoColor=F2B705)
 ![Keras](https://img.shields.io/badge/Keras-5C2E0E?style=flat-square&logo=keras&logoColor=F2B705)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-5C2E0E?style=flat-square&logo=scikit-learn&logoColor=F2B705)
@@ -56,6 +59,8 @@ I'm a **CS Graduate** who got tired of half-finished projects and vague goals. N
 ![Pandas](https://img.shields.io/badge/Pandas-E8871E?style=flat-square&logo=pandas&logoColor=1A0F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-E8871E?style=flat-square&logo=opencv&logoColor=1A0F00)
 ![Pillow](https://img.shields.io/badge/Pillow-E8871E?style=flat-square&logo=python&logoColor=1A0F00)
+![matplotlib](https://img.shields.io/badge/matplotlib-e08a30?style=flat-square&logo=plotly&logoColor=black) 
+![seaborn](https://img.shields.io/badge/seaborn-e08a30?style=flat-square&logo=python&logoColor=black)
 
 </td>
 </tr>
