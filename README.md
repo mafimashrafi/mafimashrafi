@@ -79,40 +79,38 @@ I'm a **CS Graduate** who got tired of half-finished projects and vague goals. N
 
 <table align="center">
 <tr>
-<td valign="top" width="50%" bgcolor="#1A0F00">
+<td valign="top" width="50%">
 
 **📖 Learning**
 <br/>
-Transformer architectures, LLM fine-tuning
+MLOps and the hardware side of ML engineering, alongside deep ML fundamentals
 
 </td>
-<td valign="top" width="50%" bgcolor="#5C2E0E">
+<td valign="top" width="50%">
 
 **🧪 Exploring**
 <br/>
-Bioinformatics ML — RNA, proteins, genomic data
+ML research: reading papers regularly and keeping notes on them
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%" bgcolor="#E8871E">
-
-**🔨 Shipping**
-<br/>
-Complete, documented projects — when there's real work to ship
-
-</td>
-<td valign="top" width="50%" bgcolor="#F2B705">
+<td valign="top" width="50%">
 
 **🌐 Building**
 <br/>
-A stronger public portfolio, at whatever pace the work actually needs
+Consistently, and still working toward a project that stands out
+
+</td>
+<td valign="top" width="50%">
+
+**🧩 Problem Solving**
+<br/>
+Sharpening my fundamentals daily with C++ and Python
 
 </td>
 </tr>
 </table>
-
----
 
 ## 📬 Reach Out
 
