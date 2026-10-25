@@ -68,6 +68,7 @@ I'm a **CS Graduate** who got tired of half-finished projects and vague goals. N
 
 ![Docker](https://img.shields.io/badge/Docker-8c5a1a?style=flat-square&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-8c5a1a?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-8c5a1a?style=flat-square&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-8c5a1a?style=flat-square&logo=dvc&logoColor=white)
 
 </td>
